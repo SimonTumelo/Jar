@@ -1,0 +1,2 @@
+C:\Users\Tumelo\Desktop\CoinJarConsole\CoinjarConsole\CoinjarConsole\bin\Debug\CoinjarConsole.exe.config
+C:\Users\Tumelo\Desktop\CoinJarConsole\CoinjarConsole\CoinjarConsole\obj\Debug\CoinjarConsole.csprojResolveAssemblyReference.cache
